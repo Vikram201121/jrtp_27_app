@@ -18,9 +18,4 @@ class main
         String sr="rani";
 		System.out.print(s.concat(sr));
 	}
-
-	//Task-325
-	void m3(){
-		int float =5.0f;
-	}
 }
