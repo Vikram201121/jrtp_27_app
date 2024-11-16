@@ -13,7 +13,7 @@ class main
 	}
 	//Task-321
 	public static void m2(){
-		String s="raja";
+		String s="rajkumar";
         String sr="rani";
 		System.out.print(s.concat(sr));
 	}
