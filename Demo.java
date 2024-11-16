@@ -14,6 +14,7 @@ class main
 	//Task-321
 	public static void m2(){
 		String s="rajkumar";
+		Double d=5000.0;
         String sr="rani";
 		System.out.print(s.concat(sr));
 	}
